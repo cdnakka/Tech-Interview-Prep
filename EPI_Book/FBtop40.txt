@@ -1,0 +1,38 @@
+Arrays: move zeros to the left
+Arrays: Merge overlapping intervals
+Trees: Convert binary tree to doubly linked list
+Trees: Level order traversal of binary tree
+Strings: Reverse words in a sentence 6.6
+Strings: String segmentation
+Dynamic Programming: Find maximum single sell profit 5.6
+Math and Stats: Calculate the power of a number 3.4
+Backtracking: Find all possible subsets 5.15, 15.6
+Graphs: Clone a directed graph 18.5
+Design: Serialize / deserialize binary tree
+Sorting and Searching: Find the high and low index
+Sorting and Searching: Search rotated array
+Longest increasing subsequence from array of integers (dynamic programming arrays) 16.12
+Unique paths in a grid (dynamic programming matrices) 16.3
+Add two numbers as a list (lists) 7.13
+Design cache (system design)
+Design a highly consistent database (system design)
+Rotate a matrix (arrays) 5.19
+Design a URL shortener (system design)
+Design a recommendation system (ML, system design)
+Find nth Fibonacci number (number theory)
+Find the square root of an integer using binary search (math search answer)
+Implement StrStr (string search) 6.12
+Minimum appends for Palindrome (strings)
+Find the largest rectangle in a histogram (stacks)
+Substring concatenation (incremental hash)
+Find the least common ancestor (tree search) 14.4
+Find largest distance between nodes in a tree (DFS)
+Find all unique triplets in an array, giving sum of zero (array)
+Find maximum path sum in non-empty binary tree (binary tree)
+Find K closest points to origin for a list of points on a plane (search/sort)
+Write a function to compute intersection of arrays (sort/search)
+Design a typehead feature (system design)
+Design Facebook Messenger (system design)
+Group anagrams together in an array of strings (arrays/strings)
+Convert a BST to sorted circular doubly linked list (trees)
+Determine the order of letters in a dictionary (graphs/trees)
